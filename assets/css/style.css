@@ -279,6 +279,22 @@ section {
     font-size: 17px;
 }
 
+/* Table Styles */
+
+.service-grid-container {
+    display: grid;
+}
+
+.service-grid-item {
+    width: 200px;
+    height: 50px;
+    background-color: orange;
+    border: solid;
+    color: black;
+}
+
+/* Reach Out Styles */
+
 .contact-info > * {
     flex: 1;
     margin: 15px;
